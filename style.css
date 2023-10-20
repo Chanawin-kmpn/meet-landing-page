@@ -62,7 +62,6 @@ p {
     flex-direction: column;
     gap: 9.25rem;
     width: 100%;
-    /* max-width: 90rem; */
 }
 
 /* Header section */
@@ -390,6 +389,7 @@ p.footer-description {
         background-image: url(./assets/desktop/image-hero-left.png), url(./assets/desktop/image-hero-right.png);
         background-size: auto, auto;
         background-position: center left -2rem, center right -2rem;
+        margin-top: 5rem;
         margin-bottom: 0.625rem;
     }
 
